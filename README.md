@@ -2,7 +2,7 @@
 
 ## 🚀 Live Preview
 
-![Portfolio Preview](./assets/preview.png)
+![Portfolio Preview](./public/preview.png)
 
 ### 🚀 Live Portfolio: https://prathameshgite-da.vercel.app
 
