@@ -90,7 +90,7 @@ University of Mumbai (2020 – 2023)
 ## ⚡ Installation (For Developers)
 
 ```bash
-git clone https://github.com/Pratham1514/data-insights-hub.git
-cd data-insights-hub
+git clone https://github.com/Pratham1514/DA-Portfolio.git
+cd DA-Portfolio
 npm install
 npm run dev
